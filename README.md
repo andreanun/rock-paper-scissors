@@ -1,3 +1,3 @@
 # rock-paper-scissors
 
-odin project fun :D
+foundations ~ odin project fun :D
